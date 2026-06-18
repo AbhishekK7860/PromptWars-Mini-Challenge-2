@@ -163,3 +163,4 @@ NEGATIVE PROMPT
 No anime style, no cartoon style, no crayon style, no childish illustration, no distorted face, no blurry textures, no weak composition, no low-detail armor, no fake AI look, no plastic skin, no gibberish text, no misspelled caption.
 
 ## Output
+![Prompt Warrior](pw.jpeg)
